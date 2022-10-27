@@ -8,11 +8,6 @@ h5 {
 body {
   font-family: "Raleway", sans-serif;
   color: darkgrey;
-  background: radial-gradient(
-    circle at 10% 20%,
-    rgb(251, 222, 238) 15.6%,
-    rgb(206, 201, 226) 80.3%
-  );
 }
 form {
   padding: 20px 0px 0px 0px;
@@ -87,4 +82,8 @@ li {
 ul {
   margin: 0;
   padding: 0;
+}
+.github {
+  text-align: center;
+  color: black;
 }
